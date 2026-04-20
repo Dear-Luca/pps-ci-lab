@@ -8,5 +8,5 @@ repositories{
 }
 
 application{
-    mainClass.set("Class3")
+    mainClass.set("Class1")
 }
