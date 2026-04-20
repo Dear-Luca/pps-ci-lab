@@ -3,6 +3,10 @@ plugins {
     application
 }
 
-application {
-    mainClass.set("Class1")
+repositories{
+    mavenCentral()
+}
+
+application{
+    mainClass.set("Class3")
 }
